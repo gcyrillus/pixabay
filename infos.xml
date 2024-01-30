@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<document>
+	<title><![CDATA[Pixabay - Banque d'image]]></title>
+	<author><![CDATA[G.Cyrille]]></author>
+	<version>beta 0.1</version>
+	<date>2024-01-19</date>
+	<site></site>
+	<description><![CDATA[utilise l'api de la  banque d'images pixabay pour rechercher, afficher et choisir une image pour votre PluXml.
+La fonction Curl() est requise pour fonctionner.[+] compatibilité PHP8.x pour PluXml > 5.8.9]]></description>
+	<scope></scope>
+	</document>
